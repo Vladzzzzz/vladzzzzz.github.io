@@ -4,10 +4,10 @@
     "details": [
       {
         "appID": "X86NQK83T7.ru.handh.spasibo-sb",
-        "paths": ["*"]
+        "paths": ["NOT /upload/*", "*"]
       },{
         "appID": "Y7WHYQZ3PH.ru.sberbank.spasibox",
-        "paths": ["*"]
+        "paths": ["NOT /upload/*", "*"]
       }
     ]
   }
