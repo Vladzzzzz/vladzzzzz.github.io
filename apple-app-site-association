@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X86NQK83T7.ru.handh.spasibo-sb",
+        "paths": ["*"]
+      },{
+        "appID": "Y7WHYQZ3PH.ru.sberbank.spasibox",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
